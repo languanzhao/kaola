@@ -1,0 +1,124 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/index",
+    "pages/dataDetail/index",
+    "pages/login/register",
+    "pages/login/forget",
+    "pages/login/enterPage",
+    "pages/category/category",
+    "pages/news/index",
+    "pages/news/chat",
+    "pages/news/webView",
+    "pages/user/user",
+    "pages/search/index",
+    "pages/search/searchResult"
+  ],
+  "subPackages": [
+    {
+      "root": "sub_user",
+      "pages": [
+        "pages/school-collected/index",
+        "pages/consulted/index",
+        "pages/personalInfo/index",
+        "pages/personalInfo/info-edit",
+        "pages/personalInfo/address",
+        "pages/personalInfo/houseAddress",
+        "pages/wallet/index",
+        "pages/wallet/account",
+        "pages/wallet/accountDetail",
+        "pages/progress/index",
+        "pages/progress/leaveSchool",
+        "pages/about/index",
+        "pages/invited/index",
+        "pages/poster/index",
+        "pages/intention/index",
+        "pages/bindwx/index",
+        "pages/personalInfo/bindPhone",
+        "pages/about/safe",
+        "pages/personalInfo/schoolChoose"
+      ]
+    },
+    {
+      "root": "sub_school",
+      "pages": [
+        "pages/detail/index",
+        "pages/apply/index",
+        "pages/apply/transferAccounts",
+        "pages/detail/img-video",
+        "pages/apply/orderTransferAccount",
+        "pages/detail/detailPoster"
+      ]
+    },
+    {
+      "root": "sub_tim",
+      "pages": [
+        "pages/joinUs/index",
+        "pages/taskCenter/index",
+        "pages/taskCenter/list"
+      ]
+    },
+    {
+      "root": "sub_adviser",
+      "pages": [
+        "pages/personalInfo/index",
+        "pages/personalInfo/IDAuth",
+        "pages/wallet/index",
+        "pages/wallet/accountList",
+        "pages/wallet/withdraw",
+        "pages/wallet/withdrawDetail",
+        "pages/team/index"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#6d6d6e",
+    "selectedColor": "#040000",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/home.png",
+        "selectedIconPath": "static/tabbar/home-current.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/category/category",
+        "iconPath": "static/tabbar/category.png",
+        "selectedIconPath": "static/tabbar/category-current.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/news/index",
+        "iconPath": "static/tabbar/news.png",
+        "selectedIconPath": "static/tabbar/news-current.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/tabbar/user.png",
+        "selectedIconPath": "static/tabbar/user-current.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "uniStatistics": {
+    "enable": true
+  },
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup"
+  },
+  "sitemapLocation": "sitemap35.json"
+}

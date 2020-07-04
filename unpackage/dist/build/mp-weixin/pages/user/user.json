@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "我的",
+  "navigationBarBackgroundColor": "#12ada9",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "list-cell": "/components/list-cell/index",
+    "role-adviser": "/pages/user/components/role-adviser",
+    "apply-process": "/components/applyProcess/index",
+    "audit-data": "/components/auditData/index"
+  }
+}

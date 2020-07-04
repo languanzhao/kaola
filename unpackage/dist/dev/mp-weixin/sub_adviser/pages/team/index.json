@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "考拉上学团队",
+  "navigationBarBackgroundColor": "#12ada9",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "role-adviser": "/pages/user/components/role-adviser"
+  }
+}

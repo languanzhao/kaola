@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarBackgroundColor": "#12ada9",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "simple-address": "/components/simple-address/simple-address",
+    "school-list": "/components/school-list/list",
+    "audit-data": "/components/auditData/index"
+  }
+}

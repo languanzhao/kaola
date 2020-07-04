@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "账单明细",
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#12ada9",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "apply-process": "/components/applyProcess/index"
+  }
+}

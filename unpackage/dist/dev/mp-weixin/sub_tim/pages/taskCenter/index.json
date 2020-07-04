@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "任务中心",
+  "navigationBarBackgroundColor": "#12ada9",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

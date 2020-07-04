@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "编辑通讯地址",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#12ada9",
+  "usingComponents": {
+    "simple-address": "/components/simple-address/simple-address"
+  }
+}

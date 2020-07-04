@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我收藏的院校",
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#12ada9",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "collected-list": "/components/school-list/index"
+  }
+}

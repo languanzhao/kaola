@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "提现明细",
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#12ada9",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {}
+}

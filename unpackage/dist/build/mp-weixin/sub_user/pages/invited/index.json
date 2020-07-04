@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "邀约进度",
+  "enablePullDownRefresh": true,
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#12ada9",
+  "usingComponents": {
+    "apply-process": "/components/applyProcess/index"
+  }
+}

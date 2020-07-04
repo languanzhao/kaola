@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "上传转账凭证",
+  "navigationBarBackgroundColor": "#12ada9",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "upload-imgs": "/components/upload-imgs/index",
+    "transfer-info": "/sub_school/pages/apply/components/transferInfo"
+  }
+}

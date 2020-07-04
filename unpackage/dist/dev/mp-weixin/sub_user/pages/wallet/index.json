@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "钱包",
+  "navigationBarBackgroundColor": "#12ada9",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "withdraw-oper": "/components/withdrawOper/index"
+  }
+}

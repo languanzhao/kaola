@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#12ada9",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "simple-address": "/components/simple-address/simple-address",
+    "school-list": "/components/school-list/index"
+  }
+}

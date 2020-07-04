@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "分类",
+  "usingComponents": {
+    "audit-data": "/components/auditData/index"
+  }
+}
